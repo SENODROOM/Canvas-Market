@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:SENODROOM/Canvas-Market-Frontend.git
+	url = https://github.com/SENODROOM/Canvas-Market-Frontend
 [submodule "backend"]
 	path = backend
 	url = https://github.com/SENODROOM/Canvas-Market-Backend.git
