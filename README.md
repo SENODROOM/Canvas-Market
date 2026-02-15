@@ -3,6 +3,7 @@
 
 A comprehensive marketplace platform for canvas products, built with modern web technologies to provide a seamless buying and selling experience for artists, creators, and canvas enthusiasts.
 </div>
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
