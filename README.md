@@ -5,19 +5,19 @@ A comprehensive marketplace platform for canvas products, built with modern web 
 </div>
 
 ## 📋 Table of Contents
-- [Overview](#-overview)
-- [Architecture](#-architecture)
-- [Sub-Repositories](#-sub-repositories)
-  - [Frontend Repository](#-frontend-repository)
-  - [Backend Repository](#-backend-repository)
-- [Getting Started](#-getting-started)
-- [Contributing](#-contributing)
-  - [Contributing to Frontend](#-contributing-to-frontend)
-  - [Contributing to Backend](#-contributing-to-backend)
-- [Development Workflow](#-development-workflow)
-- [Code of Conduct](#-code-of-conduct)
-- [License](#-license)
-- [Contact](#-contact)
+- [Overview](#overview)
+- [Architecture](#architecture)
+- [Sub-Repositories](#sub-repositories)
+  - [Frontend Repository](#frontend-repository)
+  - [Backend Repository](#backend-repository)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+  - [Contributing to Frontend](#contributing-to-frontend)
+  - [Contributing to Backend](#contributing-to-backend)
+- [Development Workflow](#development-workflow)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
+- [Contact](#contact)
 
 ## 🎨 Overview
 
