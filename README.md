@@ -6,7 +6,7 @@ A comprehensive marketplace platform for canvas products, built with modern web 
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
+- [Overview](#🎨-Overview)
 - [Architecture](#architecture)
 - [Sub-Repositories](#sub-repositories)
   - [Frontend Repository](#frontend-repository)
