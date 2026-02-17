@@ -19,7 +19,7 @@ A comprehensive marketplace platform for canvas products, built with modern web 
 - [License](#license)
 - [Contact](#contact)
 
-## 🎨 Overview
+## <a id="overview"></a> 🎨 Overview
 
 Canvas Market is a full-stack marketplace application designed to connect canvas artists with buyers. The platform provides features for listing, browsing, purchasing, and managing canvas artworks and products. Built with scalability and user experience in mind, Canvas Market leverages modern technologies to deliver a robust and efficient platform.
 
@@ -33,7 +33,7 @@ Canvas Market is a full-stack marketplace application designed to connect canvas
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Admin Panel**: Comprehensive admin tools for platform management
 
-## 🏗️ Architecture
+##  <a id="architecture"></a> 🏗️ Architecture
 
 Canvas Market follows a microservices architecture with separate frontend and backend repositories:
 
@@ -44,9 +44,9 @@ Canvas-Market/
 └── docs/              # Documentation and guides
 ```
 
-## 📁 Sub-Repositories
+## <a id="sub-repositories"></a>📁 Sub-Repositories
 
-### Frontend Repository
+### <a id="frontend-repository"></a> Frontend Repository
 
 **Technology Stack:**
 - React.js / Next.js
@@ -64,7 +64,7 @@ Canvas-Market/
 
 [📖 Frontend Documentation](./frontend/README.md) | [🐛 Frontend Issues](./frontend/issues)
 
-### Backend Repository
+###  <a id="backend-repository"></a> Backend Repository
 
 **Technology Stack:**
 - Node.js with Express.js / Django / FastAPI
